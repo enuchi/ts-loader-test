@@ -1,0 +1,28 @@
+{
+  "name": "ts-loader-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.ts",
+  "scripts": {
+    "build": "webpack",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/enuchi/ts-loader-test.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/enuchi/ts-loader-test/issues"
+  },
+  "homepage": "https://github.com/enuchi/ts-loader-test#readme",
+  "devDependencies": {
+    "@google/clasp": "^2.4.1",
+    "gas-types-detailed": "^1.0.0",
+    "gas-webpack-plugin": "^2.2.1",
+    "ts-loader": "^9.3.0",
+    "webpack": "^5.73.0",
+    "webpack-cli": "^4.9.2"
+  }
+}
